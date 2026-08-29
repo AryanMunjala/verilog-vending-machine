@@ -194,8 +194,7 @@ begin
         end
 
         default:;
-       
-endcase
+        endcase
 end
 
 endmodule
