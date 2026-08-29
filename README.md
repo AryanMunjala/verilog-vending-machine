@@ -141,7 +141,7 @@ This project demonstrates practical understanding of:
 
 ## Author
 
-**Aryan MUnjala**
+**Aryan Munjala**
 
 ### Project Category
 
